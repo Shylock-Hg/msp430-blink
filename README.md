@@ -7,3 +7,6 @@ Environment:
 Target:
 
 ** MSP-EXP430F5526LP **
+
+Toolchain:
+official msp430-gcc toolchain, but install ccs for TI-FET usb driver(When msp430-gcc debug stack don't work).
